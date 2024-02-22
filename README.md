@@ -3,7 +3,7 @@
 ![image](https://github.com/touyphongkeo/dirver-sql-connect-xampp/assets/65598032/6839cdc8-d31f-4d4b-ab7b-b2f70295651c)
 2.ໃຫ້ໂຫລດເອົາ dirver odbc17 ຕາມລີງນີ້ https://learn.microsoft.com/en-us/sql/connect/odbc/download-odbc-driver-for-sql-server?view=sql-server-ver15
 ຫຼັງຈາກໂຫລດໄດ້ແລ້ວໃຫ້ຕິດຕັ້ງລົງເຄື່ອງ
-3.ໃຫ້ໂຫລດ dirver https://github.com/touyphongkeo/dirver-sql-connect-xampp.git
+3.ໃຫ້ໂຫລດ dirver ໃນ github ຫັນລົງມາ
 ![image](https://github.com/touyphongkeo/dirver-sql-connect-xampp/assets/65598032/e16b26a7-014e-4db4-8aa2-0d63e4d9f84b)
 ເມືອໂຫລດແລ້ວໃຫ້ແຕ່ກຟາຍອອກມາແລ້ວໃຫ້ເລືອກເອົາ php_pdo_sqlsrv_81_ts_x64.dll ແລະ php_sqlsrv_81_ts_x64.dll ຕາມຮູບພາບດ້ານລຸ້ມນີ້
 ![image](https://github.com/touyphongkeo/dirver-sql-connect-xampp/assets/65598032/a95f87fc-4df8-4545-a8c5-ba64e43e4681)
